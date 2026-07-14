@@ -98,6 +98,21 @@ Successfully coordinated technical events under the IEEE Computer Society Studen
 
 ---
 
+# 🏅 VTU Honors Program
+
+As part of the **VTU Honors Program**, I successfully completed advanced certification courses designed to strengthen my technical knowledge and practical skills in programming, artificial intelligence, cloud computing, data analytics, and problem-solving.
+
+### Certifications
+
+- 🐍 The Joy of Computing Using Python
+- 💻 Getting Started with Competitive Programming
+- 📊 Data Analytics with Python
+- ☁️ Cloud Computing
+- 🤖 AI Search Methods for Problem Solving *(IIT Madras)*
+- 🗣️ Natural Language Processing
+
+---
+
 # 🛠️ Skills Acquired
 
 - Java Programming
